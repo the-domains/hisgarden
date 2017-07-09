@@ -1,0 +1,41 @@
+name: HisGarden
+analytics: {}
+github: true
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.8535171209368855
+color:
+  lightness: 0.8207511517684907
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  saturation: 0.9469002913683653
+  brandStrength: 0.03376283822581172
+  rhythmicContrast: 0.8222344764508307
+content_rating:
+  adult: false
+typography_spectrum: 0.9603970847092569
+opengraph: {}
+title: HisGarden
